@@ -1,0 +1,4 @@
+Juan,7.5
+Ana,9.25
+Roberto,3.0
+Maria Lopez,nota_mala_aqui
